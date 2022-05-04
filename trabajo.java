@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 /**
  * asd
- */
-public class asd {
+ 
+public class trabajo.java {
 
     static Scanner teclado=new Scanner(System.in); 
 
