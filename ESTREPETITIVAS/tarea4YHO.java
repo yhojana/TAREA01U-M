@@ -255,7 +255,7 @@ public class tarea4YHO{
         System.out.println((suma - numero) / (n - 1));
       }
     public static void main(String[] args) {
-        ejercicio411();
+        ejercicio424();
     }
 }
 

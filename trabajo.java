@@ -1,8 +1,4 @@
 import java.util.Scanner;
-
-/**
- * asd
- 
 public class trabajo.java {
 
     static Scanner teclado=new Scanner(System.in); 
@@ -196,13 +192,6 @@ public class trabajo.java {
 
 
     public static void main(String[] args) {
-        //ejercicio31();
-
-        //ejercicio316();
-
-        //ejercicio32();
-
-        //ejercicio35();
 
         ejercicio38();
     }
