@@ -181,7 +181,6 @@ public class tarea4YHO{
         }
     } 
     public static void ejercicio420() {
-        Scanner in = new Scanner(System.in); 
         //definir variables
         int monedas1, monedas2, monedas5, billetes10, billetes20, billetes50;
         int cantdinero;
