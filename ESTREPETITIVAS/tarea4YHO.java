@@ -89,7 +89,6 @@ public class tarea4YHO{
         System.out.println("El promedio de toda la escuela es: "+(total/alumnos)+" años");
     }
     public static void ejercicio411(){
-        Scanner in = new Scanner(System.in); 
         //definir variables
         int bi10, bi20, bi50, bi100, bi200;
         int mone01, mone02, mone05, mone_1, mone_2, mone_5;
