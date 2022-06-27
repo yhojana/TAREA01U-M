@@ -1,10 +1,10 @@
-package ExamenYMUM.src.main.java.pe.edu.upeu.ymum.examen;
+package pe.edu.upeu.ymum.examen;
 import java.util.Scanner;
 
 public class ResolucionExamen {
 static Scanner leer = new Scanner(System.in);
 
-public static void examen02YMUM() {
+public  void examen02YMUM() {
     // definir variables
     int i, n = 3;
     double cate1, cate2, cate3, clave, costo;
@@ -49,7 +49,7 @@ public static void examen02YMUM() {
     System.out.println("total del impuesto 3: " + cate3);
     System.out.println("total a pagar del impuesto es de : " + impuestopagar);
 }
-public static void examen03YMUM() {
+public  void examen03YMUM() {
 
         // definir variables
         int n;
@@ -71,7 +71,7 @@ public static void examen03YMUM() {
             System.out.println("no es valido :(");
     }
 }
-public static void examen04YMUM() {
+public  void examen04YMUM() {
     //definir variables
     int i;
     int j; 
@@ -98,7 +98,7 @@ public static void examen04YMUM() {
         }
     }
 }
-public static void examen05YMUM() {
+public  void examen05YMUM() {
         // definir variables
         int n;
         // datos de entrada proceso y salida
@@ -122,7 +122,4 @@ public static void examen05YMUM() {
         }
     }
          
-public static void main(String[] args) {
-   examen04YMUM();
-}
 }
