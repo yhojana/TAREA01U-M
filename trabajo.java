@@ -150,7 +150,7 @@ public class trabajo.java {
 
         // Datos de entrada
 
-        System.out.println("Ingrese anho de antiguedad:");
+        System.out.println("Ingrese ano de antiguedad:");
         anhoAnti=teclado.nextInt();
 
         System.out.println("Ingrese el sueldo reciente:");
